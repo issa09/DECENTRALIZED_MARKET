@@ -15,7 +15,7 @@ cd ~/Desktop/
 Le réseau de la tour bloque les connexions entrantes, donc mettez vous en 3G, et clonez le repository du projet avec la commande:
 
 ```
-git clone https://YOURUSERNAME@bitbucket.org/EY_DNA/decentralized_market.git
+git clone https://github.com/EYdna/DECENTRALIZED_MARKET.git
 ```
 
 Vous pouvez trouver votre lien complet sur votre page Overview du projet.
