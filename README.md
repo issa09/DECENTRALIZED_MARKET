@@ -4,18 +4,18 @@ Projet en collaboration avec les étudiants de Centrale Supélec. FAIRE DESCRIPT
 
 ## Obtenir les sources et travailler avec Git
 
-Pour downloader les fichiers sources sur votre machine et effectuer des modifications, vous avez besoin de Git. On supose que vous avez déjà accès à BitBucket et vos identifiants.
+Pour downloader les fichiers sources sur votre machine et effectuer des modifications, vous avez besoin de Git. On supose que vous avez déjà accès à Git et vos identifiants.
 
 Utilisez la commande:
 ```
-git clone https://YOURUSERNAME@bitbucket.org/EY_DNA/decentralized_market.git
+git clone https://github.com/EYdna/DECENTRALIZED_MARKET.git
 ```
 
 Vous pouvez suivre le mini tutoriel Git du projet dans Sources/Tutoriels/Tuto_Git.md
 
 
 
-## DOC A CONTINUER
+## DOC A FAIRE, tout est faux en dessous
 
 
 ### Installing
